@@ -6,7 +6,9 @@
 **Known Issues:** 
 - [ ] Image Count resets on close
 - [ ] Overlay is tiny on large resolution images
+- [ ] Limited source format support; PNG and JPG only as of 0.1
 
 **Planned Development**
 - [ ] Add support for all image formats
 - [ ] Add option to set/use custom overlays
+- [ ] Add saveto function to replace app base directory saves
